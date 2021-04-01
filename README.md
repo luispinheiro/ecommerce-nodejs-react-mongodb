@@ -18,7 +18,7 @@ Instalação das ferramentas:
 
    criar variáveis de ambiente
 
-   ![image](https://user-images.githubusercontent.com/3227100/113346965-e6702f80-930a-11eb-9415-8c510f6f12ac.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113348979-b7a78880-930d-11eb-9a1d-859a4d7ac5f8.png)
 
    Testar o banco de dados
 
@@ -34,61 +34,65 @@ Instalação das ferramentas:
 Planejamento
   Casos de uso do sistema:
   
-    Administrador
-    Ter acesso a todos os pedidos feitos dentro da loja
-    Conseguir alterar o status de pedidos e avisar os clientes dessa alteração pelo e-mail
-    Conseguir colocar o código de rastreamento do pedido do cliente
-    Conseguir cancelar o pedido do cliente e avisar os clientes dessa alteração pelo e-mail
-    Ter acesso a todos os clientes que já pediram na loja
-    Pesquisar por nome ou telefone na listagem de clientes
-    Conseguir alterar os dados ou remover um cliente da loja
-    Ter acesso a todos os pedidos feitos por um cliente especifico
-    Ter acesso a uma lista com todos os produtos que estão disponíveis e indisponíveis
-    também
-    Conseguir alterar os dados de um produto – disponibilidade, preço, detalhes e variações
-    Conseguir adicionar fotos para um produto especifico
-    Conseguir excluir produtos do sistema
-    Ter acesso a uma lista com todas as categorias que estão disponíveis e indisponíveis
-    também
-    Conseguir alterar os dados de uma categoria, deixar indisponível e excluir a categoria
-    Ter acesso a uma lista com as variações de um determinado produto
-    Conseguir deixar indisponível determinada variação
-    Conseguir enviar fotos exclusivas para uma variação
-    Conseguir alterar os dados da variação – colocar desconto, alterar preço base
-    Ter acesso a uma lista com todas as avaliações de um determinado produto
-    Conseguir excluir as avaliações
-    Conseguir alterar os próprios dados de usuário
-    Curso de Ecommerce com NodeJS e React
-    Conseguir fazer login como administrador no site
-    Conseguir recuperar a senha do seu cadastro direto pelo e-mail
-    Conseguir alterar os dados relacionados a loja
-    Alterar dados de telefone, alterar e-mail e endereço
+  Administrador
+  Ter acesso a todos os pedidos feitos dentro da loja
+  Conseguir alterar o status de pedidos e avisar os clientes dessa alteração pelo e-mail
+  Conseguir colocar o código de rastreamento do pedido do cliente
+  Conseguir cancelar o pedido do cliente e avisar os clientes dessa alteração pelo e-mail
+  Ter acesso a todos os clientes que já pediram na loja
+  Pesquisar por nome ou telefone na listagem de clientes
+  Conseguir alterar os dados ou remover um cliente da loja
+  Ter acesso a todos os pedidos feitos por um cliente especifico
+  Ter acesso a uma lista com todos os produtos que estão disponíveis e indisponíveis
+  também
+  Conseguir alterar os dados de um produto – disponibilidade, preço, detalhes e variações
+  Conseguir adicionar fotos para um produto especifico
+  Conseguir excluir produtos do sistema
+  Ter acesso a uma lista com todas as categorias que estão disponíveis e indisponíveis
+  também
+  Conseguir alterar os dados de uma categoria, deixar indisponível e excluir a categoria
+  Ter acesso a uma lista com as variações de um determinado produto
+  Conseguir deixar indisponível determinada variação
+  Conseguir enviar fotos exclusivas para uma variação
+  Conseguir alterar os dados da variação – colocar desconto, alterar preço base
+  Ter acesso a uma lista com todas as avaliações de um determinado produto
+  Conseguir excluir as avaliações
+  Conseguir alterar os próprios dados de usuário
+  Curso de Ecommerce com NodeJS e React
+  Conseguir fazer login como administrador no site
+  Conseguir recuperar a senha do seu cadastro direto pelo e-mail
+  Conseguir alterar os dados relacionados a loja
+  Alterar dados de telefone, alterar e-mail e endereço
+
+  Cliente
+  Consegue deixar avaliações em produtos
+  Fechar um pedido completo com meio de pagamento
+  Realizar o pagamento diretamente pela loja
+  Utilizando cartão de credito ou boleto
+  Ver todos os pedidos que fez no seu nome
+  Ver os detalhes de um pedido feito – pagamento, entrega, dados da loja
+  Conseguir cancelar o seu pedido
+  Alterar seus dados pessoais e de entrega online
+
+  Visitante
+  Ver todas as categorias disponíveis no site
+  Ver todos os produtos de uma determinada categoria
+  Ver todos os detalhes de um determinado produto
+  Ver cada variação disponível para determinado produto
+  Ver avaliações deixadas para produto selecionado
+  Ver valores e descontos para cada produto na listagem
+  Conseguir pesquisar um produto pelo nome, descrição ou categoria
+  Ver uma lista com vários produtos sortidos
+  Conseguir alterar a ordem dos produtos – ordem alfabética, ordem de preço, ordem
+  aleatória
+  Conseguir calcular o valor de entrega de determinado produto e do carrinho completo
+  Conseguir também se cadastrar no sistema – fazer login, se cadastrar
+  Ver as paginas institucionais da loja
     
-    Cliente
-    Consegue deixar avaliações em produtos
-    Fechar um pedido completo com meio de pagamento
-    Realizar o pagamento diretamente pela loja
-    Utilizando cartão de credito ou boleto
-    Ver todos os pedidos que fez no seu nome
-    Ver os detalhes de um pedido feito – pagamento, entrega, dados da loja
-    Conseguir cancelar o seu pedido
-    Alterar seus dados pessoais e de entrega online
-    
-    Visitante
-    Ver todas as categorias disponíveis no site
-    Ver todos os produtos de uma determinada categoria
-    Ver todos os detalhes de um determinado produto
-    Ver cada variação disponível para determinado produto
-    Ver avaliações deixadas para produto selecionado
-    Ver valores e descontos para cada produto na listagem
-    Conseguir pesquisar um produto pelo nome, descrição ou categoria
-    Ver uma lista com vários produtos sortidos
-    Conseguir alterar a ordem dos produtos – ordem alfabética, ordem de preço, ordem
-    aleatória
-    Conseguir calcular o valor de entrega de determinado produto e do carrinho completo
-    Conseguir também se cadastrar no sistema – fazer login, se cadastrar
-    Ver as paginas institucionais da loja
-    
+ Modelagem e relacionamentos das classes de domínio: 
+
+![image](https://user-images.githubusercontent.com/3227100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
+
     
 Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
 
