@@ -5,7 +5,7 @@ Instalação das ferramentas:
   Instalação do NodeJS 
     https://nodejs.org/en/ 
 
-Instalação do Mongodb 
+Instalação do Mongodb   
   https://www.mongodb.com/try/download/community 
 
   ![image](https://user-images.githubusercontent.com/3227100/113346746-a1e49400-930a-11eb-84c5-cee33ba3b795.png)
@@ -32,6 +32,7 @@ Instalação do Mongodb
   
 Planejamento
   Casos de uso do sistema:
+  
     Administrador
     Ter acesso a todos os pedidos feitos dentro da loja
     Conseguir alterar o status de pedidos e avisar os clientes dessa alteração pelo e-mail
@@ -86,6 +87,7 @@ Planejamento
     Conseguir calcular o valor de entrega de determinado produto e do carrinho completo
     Conseguir também se cadastrar no sistema – fazer login, se cadastrar
     Ver as paginas institucionais da loja
+
 
 API - Usuário
   Criando Views para recuperar senha:
