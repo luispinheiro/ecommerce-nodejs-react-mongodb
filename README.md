@@ -106,7 +106,10 @@ Acessar a pasta
     
 ### Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
 
- > npm install --global --production windows-build-tools 
+ ```
+npm install --global --production windows-build-tools 
+ ```
+ 
 
  ![image](https://user-images.githubusercontent.com/3227100/113348241-bd509e80-930c-11eb-9167-926bf823643b.png)
     
@@ -115,10 +118,16 @@ Acessar a pasta
 
  ![image](https://user-images.githubusercontent.com/3227100/113352790-220ef780-9313-11eb-8a93-b8a2d913b9ad.png)
 
-    
+### Criando a configuração base de rotas
+
+![image](https://user-images.githubusercontent.com/3227100/113356464-a57f1780-9318-11eb-91b1-dee0dfc7f164.png)
+
+
 ### Instalação do package.json 
 
- > npm init 
+ ```
+ npm init 
+ ```
 
 ![image](https://user-images.githubusercontent.com/3227100/113348003-6d71d780-930c-11eb-8b71-e15b93464026.png)
 
