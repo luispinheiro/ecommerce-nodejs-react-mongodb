@@ -98,9 +98,9 @@ Modelagem e relacionamentos das classes de domínio:
     
 Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
 
-  > npm install --global --production windows-build-tools 
+ > npm install --global --production windows-build-tools 
 
-   ![image](https://user-images.githubusercontent.com/3227100/113348241-bd509e80-930c-11eb-9167-926bf823643b.png)
+ ![image](https://user-images.githubusercontent.com/3227100/113348241-bd509e80-930c-11eb-9167-926bf823643b.png)
     
     
 Instalação do package.json 
@@ -112,14 +112,14 @@ Instalação do package.json
 
 Instalação das dependências 
 
-  > npm install --save express@4.16.4 body-parser@1.18.3 compression@1.7.3 cors@2.8.5 crypto@1.0.1 ejs@2.6.1 express-jwt@5.3.1 faker@4.1.0 jsonwebtoken@8.4.0 moment@2.23 mongoose@5.4.0 mongoose-paginate@5.0.3 mongoose-unique-validator@2.0.2 morgan@1.9.1 multer@1.4.1 node-pagseguro@0.1.9 nodemailer@4.7.0 request@2.88.0 xml2js@0.4.19 
+> npm install --save express@4.16.4 body-parser@1.18.3 compression@1.7.3 cors@2.8.5 crypto@1.0.1 ejs@2.6.1 express-jwt@5.3.1 faker@4.1.0 jsonwebtoken@8.4.0 moment@2.23 mongoose@5.4.0 mongoose-paginate@5.0.3 mongoose-unique-validator@2.0.2 morgan@1.9.1 multer@1.4.1 node-pagseguro@0.1.9 nodemailer@4.7.0 request@2.88.0 xml2js@0.4.19 
 
 ![image](https://user-images.githubusercontent.com/3227100/113348757-66979480-930d-11eb-90be-bfc2a7e9600b.png)
 
 
 3.API - Usuário
- Criando Views para recuperar senha:
+Criando Views para recuperar senha:
  
- ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
+![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
