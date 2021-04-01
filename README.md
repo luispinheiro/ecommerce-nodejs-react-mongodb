@@ -8,26 +8,27 @@ Instalação das ferramentas:
   Instalação do Mongodb   
     https://www.mongodb.com/try/download/community 
 
-    ![image](https://user-images.githubusercontent.com/3227100/113346746-a1e49400-930a-11eb-84c5-cee33ba3b795.png)
-    ![image](https://user-images.githubusercontent.com/3227100/113346785-af018300-930a-11eb-90f2-c9758e2eb6aa.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113346746-a1e49400-930a-11eb-84c5-cee33ba3b795.png)
+    
+   ![image](https://user-images.githubusercontent.com/3227100/113346785-af018300-930a-11eb-90f2-c9758e2eb6aa.png)
 
-    Acessar a pasta C:\Program Files\MongoDB\Server\4.4\bin 
+   Acessar a pasta C:\Program Files\MongoDB\Server\4.4\bin 
 
-    ![image](https://user-images.githubusercontent.com/3227100/113346893-d0fb0580-930a-11eb-98e5-7e1da71e0dcb.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113346893-d0fb0580-930a-11eb-98e5-7e1da71e0dcb.png)
 
-    criar variáveis de ambiente
+   criar variáveis de ambiente
 
-    ![image](https://user-images.githubusercontent.com/3227100/113346965-e6702f80-930a-11eb-9415-8c510f6f12ac.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113346965-e6702f80-930a-11eb-9415-8c510f6f12ac.png)
 
-    Testar o banco de dados
+   Testar o banco de dados
 
-    ![image](https://user-images.githubusercontent.com/3227100/113347105-10c1ed00-930b-11eb-8ee1-c56c97d93daf.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113347105-10c1ed00-930b-11eb-8ee1-c56c97d93daf.png)
 
-    Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
+   Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
 
-    npm install --global --production windows-build-tools 
+   > npm install --global --production windows-build-tools 
 
-    ![image](https://user-images.githubusercontent.com/3227100/113347391-7dd58280-930b-11eb-84e2-92e0a140745f.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113347391-7dd58280-930b-11eb-84e2-92e0a140745f.png)
 
   
 Planejamento
