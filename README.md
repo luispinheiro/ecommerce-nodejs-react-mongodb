@@ -1,6 +1,6 @@
 # Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
 
-1.Instalação das ferramentas
+## Instalação das ferramentas
   Instalação do NodeJS 
   https://nodejs.org/en/ 
 
@@ -32,7 +32,7 @@ Acessar a pasta
  ![image](https://user-images.githubusercontent.com/3227100/113347391-7dd58280-930b-11eb-84e2-92e0a140745f.png)
 
   
-2.Planejamento
+## Planejamento
 
   Casos de uso do sistema:
   
@@ -122,7 +122,7 @@ Instalação das dependências
 ![image](https://user-images.githubusercontent.com/3227100/113348757-66979480-930d-11eb-90be-bfc2a7e9600b.png)
 
 
-3.API - Usuário
+## API - Usuário
 Criando Views para recuperar senha:
  
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
