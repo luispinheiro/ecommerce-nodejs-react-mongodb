@@ -102,6 +102,11 @@ Instalação do Visual Studio Build Tools para instalar todos os pacotes, Inicia
 
  ![image](https://user-images.githubusercontent.com/3227100/113348241-bd509e80-930c-11eb-9167-926bf823643b.png)
     
+
+Criando arquivos de configuração
+
+ ![image](https://user-images.githubusercontent.com/3227100/113352790-220ef780-9313-11eb-8a93-b8a2d913b9ad.png)
+
     
 Instalação do package.json 
 
