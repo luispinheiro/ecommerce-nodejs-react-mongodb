@@ -12,12 +12,15 @@ Instalação do Mongodb
   ![image](https://user-images.githubusercontent.com/3227100/113346785-af018300-930a-11eb-90f2-c9758e2eb6aa.png)
 
   Acessar a pasta C:\Program Files\MongoDB\Server\4.4\bin 
+  
   ![image](https://user-images.githubusercontent.com/3227100/113346893-d0fb0580-930a-11eb-98e5-7e1da71e0dcb.png)
 
   criar variáveis de ambiente
+  
   ![image](https://user-images.githubusercontent.com/3227100/113346965-e6702f80-930a-11eb-9415-8c510f6f12ac.png)
   
   Testar o banco de dados
+  
   ![image](https://user-images.githubusercontent.com/3227100/113347105-10c1ed00-930b-11eb-8ee1-c56c97d93daf.png)
 
   Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
