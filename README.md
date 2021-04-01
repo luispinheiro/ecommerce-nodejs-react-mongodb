@@ -93,7 +93,7 @@ Instalação do Visual Studio Build Tools para instalar todos os pacotes, Inicia
 
   > npm install --global --production windows-build-tools 
 
-    ![image](https://user-images.githubusercontent.com/3227100/113348241-bd509e80-930c-11eb-9167-926bf823643b.png)
+   ![image](https://user-images.githubusercontent.com/3227100/113348241-bd509e80-930c-11eb-9167-926bf823643b.png)
     
     
 Instalação do package.json 
