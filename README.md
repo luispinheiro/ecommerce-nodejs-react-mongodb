@@ -140,7 +140,7 @@ Criando Views para recuperar senha:
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
-# API - Usuário
+# Teste - Usuário
 Testando os métodos de requisição:
  ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
  
