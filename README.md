@@ -1,6 +1,6 @@
 # Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+![Badge](https://img.shields.io/badge/Blog-Lespit-%237159c1?style=for-the-badge&logo=ghost)
 
 O termo e-commerce é a comercialização de produtos e serviços pela internet, onde as transações são realizadas via dispositivos eletrônicos, como computadores e smartphones.
 
