@@ -10,20 +10,6 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
 
 É válido frisar que a expressão e-commerce se diferencia do termo “loja virtual”, uma vez que o segundo conceito se refere ao website em que os clientes adquirem os produtos, ou seja, é um dos canais do e-commerce. No entanto, existem outros, como citado anteriormente.
 
-Tabela de conteúdos
-=================
-<!--ts-->
-   * [Modúlo 1-Introdução](#instalacao-das-ferramentas)
-      * [Instalando aplicações necessárias - NodeJS](#local-files)
-      * [Instalando aplicacoes necessarias - MongoDB](#remote-files)
-      * [Instalando aplicacoes necessarias - VSCode](#remote-files)
-      * [Link para Repositório com código para a API](#multiple-files)
-      * [Link para Repositório com código para a API](#remote-files)
-      * [Link para Repositório com código para a Loja Virtuai](#multiple-files)
-      * [Combo](#combo)
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
