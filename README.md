@@ -21,7 +21,7 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at√
       <a href="#getting-started">Getting Started</a>
     </li>
      <li>
-       <a href="#planejamento">Planejamento</a>
+       <a href="#planning">Planning</a>
     </li>
      <li>
         <a href="#modelagem-das-classes-de-dominio">Modelagem das classes de dominio</a>        </li>
@@ -29,7 +29,7 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at√
       <a href="#instalacao-do-visual-studio-build-tools">Instalacao do Visual Studio Build        Tools</a>
     </li>
     <li>
-      <a href="#instalacao-das-dependencias">Instalacao das dependencias</a>
+      <a href="#installation-of-dependencies">Installation of dependencies</a>
     </li>
     <li>
       <a href="#api-Usuario">API-Usuario</a>
@@ -75,7 +75,7 @@ Acessar a pasta
 
  ![image](https://user-images.githubusercontent.com/3227100/113347105-10c1ed00-930b-11eb-8ee1-c56c97d93daf.png)
 
-## Planejamento
+## Planning
 
 ### Casos de uso do sistema:
 
@@ -169,7 +169,7 @@ npm init
 ![image](https://user-images.githubusercontent.com/3227100/113348003-6d71d780-930c-11eb-8b71-e15b93464026.png)
 
 
-## Instalacao das dependencias 
+## Installation of dependencies
 
 ```
 npm install --save express@4.16.4 body-parser@1.18.3 compression@1.7.3 cors@2.8.5 crypto@1.0.1 ejs@2.6.1 express-jwt@5.3.1 faker@4.1.0 jsonwebtoken@8.4.0 moment@2.23 mongoose@5.4.0 mongoose-paginate@5.0.3 mongoose-unique-validator@2.0.2 morgan@1.9.1 multer@1.4.1 node-pagseguro@0.1.9 nodemailer@4.7.0 request@2.88.0 xml2js@0.4.19 
