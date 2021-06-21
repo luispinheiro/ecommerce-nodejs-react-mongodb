@@ -21,34 +21,13 @@ Tabela de conteúdos
       * [Link para Repositório com código para a API](#remote-files)
       * [Link para Repositório com código para a Loja Virtuai](#multiple-files)
       * [Combo](#combo)
-   * [Modúlo 2-Planejamento](#planejamento)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Modúlo 3-Instalação](#instalacao)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Modúlo 4-Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Instalação das ferramentas</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
