@@ -1,11 +1,5 @@
 # Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
 
-> Short blurb about what your product does.
-
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 O termo e-commerce é a comercialização de produtos e serviços pela internet, onde as transações são realizadas via dispositivos eletrônicos, como computadores e smartphones.
 
 Esse tipo de comércio pode contar com diversos canais de vendas. O mais conhecido é a loja virtual. Porém, também temos outros, como marketplaces, vendas nas redes sociais e até vendas por e-mail marketing.
