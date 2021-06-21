@@ -12,7 +12,7 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at√
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>##Table of Contents</summary>
+  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
