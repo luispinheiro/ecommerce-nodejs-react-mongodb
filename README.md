@@ -1,4 +1,4 @@
-# Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
+## Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
 
 ![Badge](https://img.shields.io/badge/Blog-Lespit-%237159c1?style=for-the-badge&logo=ghost)
 
@@ -10,7 +10,7 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
 
 É válido frisar que a expressão e-commerce se diferencia do termo “loja virtual”, uma vez que o segundo conceito se refere ao website em que os clientes adquirem os produtos, ou seja, é um dos canais do e-commerce. No entanto, existem outros, como citado anteriormente.
 
-# Instalação das ferramentas
+## Instalação das ferramentas
   Instalação do NodeJS 
   https://nodejs.org/en/ 
 
@@ -35,7 +35,7 @@ Acessar a pasta
 
  ![image](https://user-images.githubusercontent.com/3227100/113347105-10c1ed00-930b-11eb-8ee1-c56c97d93daf.png)
 
-# Planejamento
+## Planejamento
 
 ### Casos de uso do sistema:
 
