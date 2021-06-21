@@ -22,6 +22,8 @@ Tabela de conteúdos
       * [Link para Repositório com código para a Loja Virtuai](#multiple-files)
       * [Combo](#combo)
 
+
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -48,7 +50,7 @@ Tabela de conteúdos
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ## Instalação das ferramentas
