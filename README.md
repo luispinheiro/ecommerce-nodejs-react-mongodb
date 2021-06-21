@@ -53,10 +53,10 @@ Tabela de conteúdos
 </details>
 
 
-## :memo: About The Project
+## About The Project
 Obviamente, nenhum modelo atenderá a todos os projetos, pois suas necessidades podem ser diferentes. Portanto, estarei adicionando mais em um futuro próximo. Você também pode sugerir alterações bifurcando este repositório e criando uma solicitação pull ou abrindo um problema. Obrigado a todas as pessoas que contribuíram para expandir este modelo!
 
-## :memo: Getting Started
+## Getting Started
   Instalação do NodeJS 
   https://nodejs.org/en/ 
 
@@ -81,7 +81,7 @@ Acessar a pasta
 
  ![image](https://user-images.githubusercontent.com/3227100/113347105-10c1ed00-930b-11eb-8ee1-c56c97d93daf.png)
 
-## :memo: Planejamento
+## Planejamento
 
 ### Casos de uso do sistema:
 
@@ -140,12 +140,12 @@ Conseguir calcular o valor de entrega de determinado produto e do carrinho compl
 Conseguir também se cadastrar no sistema – fazer login, se cadastrar
 Ver as paginas institucionais da loja
     
-## :memo: Modelagem das classes de dominio
+## Modelagem das classes de dominio
 
 ![image](https://user-images.githubusercontent.com/3227100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
 
     
-## :memo: Instalacao do Visual Studio Build Tools
+## Instalacao do Visual Studio Build Tools
 
 Com a instalação do comando abaixo conseguimos instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
 
