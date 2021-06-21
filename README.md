@@ -132,7 +132,7 @@ Conseguir calcular o valor de entrega de determinado produto e do carrinho compl
 Conseguir também se cadastrar no sistema – fazer login, se cadastrar
 Ver as paginas institucionais da loja
     
-## Modelagem das classes de domínio: 
+## Modelagem das classes de domínio
 
 ![image](https://user-images.githubusercontent.com/3227100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
 
