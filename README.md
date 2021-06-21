@@ -13,10 +13,15 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Introdução](#Introdução)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
+   * [Modúlo 1-Introdução](#Introducao)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Modúlo 2-Planejamento](#planejamento)
+   * [Modúlo 3-Instalação](#instalacao)
+   * [Modúlo 4-Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
       * [Local files](#local-files)
       * [Remote files](#remote-files)
