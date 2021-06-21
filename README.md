@@ -2,6 +2,13 @@
 
 ![Badge](https://img.shields.io/badge/Blog-Lespit-%237159c1?style=for-the-badge&logo=ghost)
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 O termo e-commerce é a comercialização de produtos e serviços pela internet, onde as transações são realizadas via dispositivos eletrônicos, como computadores e smartphones.
 
 Esse tipo de comércio pode contar com diversos canais de vendas. O mais conhecido é a loja virtual. Porém, também temos outros, como marketplaces, vendas nas redes sociais e até vendas por e-mail marketing.
