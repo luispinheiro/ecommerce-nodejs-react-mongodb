@@ -33,9 +33,15 @@ Tabela de conteúdos
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-     <li><a href="#planejamento">Planejamento</a></li>
-      <li><a href="#modelagem-das-classes-de-dominio">Modelagem das classes de dominio</a></li>
-    <li><a href="#usage">Usage</a></li>
+    </li>
+     <li>
+       <a href="#planejamento">Planejamento</a>
+    </li>
+     <li>
+        <a href="#modelagem-das-classes-de-dominio">Modelagem das classes de dominio</a>        </li>
+    <li>
+      <a href="#instalacao-do-visual-studio-build-tools">Instalacao do Visual Studio Build        Tools</a>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -137,7 +143,9 @@ Ver as paginas institucionais da loja
 ![image](https://user-images.githubusercontent.com/3227100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
 
     
-### Instalação do Visual Studio Build Tools para instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
+## Instalacao do Visual Studio Build Tools
+
+Com a instalação do comando abaixo conseguimos instalar todos os pacotes, Iniciar o PowerShell como administrador e executar 
 
 ```
 npm install --global --production windows-build-tools 
