@@ -13,9 +13,7 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Modúlo 1-Introdução](#Introducao)
-      * [Sobre o curso](#pre-requisitos)
-      * [Sobre min](#pre-requisitos)
+   * [Modúlo 1-Introdução](#instalacao-das-ferramentas)
       * [Instalando aplicações necessárias - NodeJS](#local-files)
       * [Instalando aplicacoes necessarias - MongoDB](#remote-files)
       * [Instalando aplicacoes necessarias - VSCode](#remote-files)
