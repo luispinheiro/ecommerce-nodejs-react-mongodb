@@ -13,7 +13,7 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Introdução](#Introdução)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
