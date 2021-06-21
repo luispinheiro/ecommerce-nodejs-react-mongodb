@@ -10,6 +10,22 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
 
 É válido frisar que a expressão e-commerce se diferencia do termo “loja virtual”, uma vez que o segundo conceito se refere ao website em que os clientes adquirem os produtos, ou seja, é um dos canais do e-commerce. No entanto, existem outros, como citado anteriormente.
 
+Tabela de conteúdos
+=================
+<!--ts-->
+   * [Sobre](#Sobre)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
+
 ## Instalação das ferramentas
   Instalação do NodeJS 
   https://nodejs.org/en/ 
@@ -136,13 +152,13 @@ npm install --save express@4.16.4 body-parser@1.18.3 compression@1.7.3 cors@2.8.
 ![image](https://user-images.githubusercontent.com/3227100/113348757-66979480-930d-11eb-90be-bfc2a7e9600b.png)
 
 
-# API - Usuário
+## API - Usuário
 Criando Views para recuperar senha:
  
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
-# Teste - Usuário
+## Teste - Usuário
 Testando os métodos de requisição:
  ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
  
