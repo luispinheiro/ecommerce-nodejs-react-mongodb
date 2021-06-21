@@ -26,22 +26,19 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
      <li>
         <a href="#modelagem-das-classes-de-dominio">Modelagem das classes de dominio</a>        </li>
     <li>
-      <a href="#instalacao-do-visual-studio-build-tools">Instalacao do Visual Studio Build        Tools</a>
+      <a href="#instalalling-visual-studio-build-tools">Installing Visual Studio Build Tools</a>
     </li>
     <li>
       <a href="#installation-of-dependencies">Installation of dependencies</a>
     </li>
     <li>
-      <a href="#api-Usuario">API-Usuario</a>
+      <a href="#api-user">API-User</a>
     </li>
     <li>
-      <a href="#license">License</a>
+      <a href="#user-test">User test</a>
     </li>
     <li>
       <a href="#contact">Contact</a>
-    </li>
-    <li>
-      <a href="#acknowledgements">Acknowledgements</a>
     </li>
   </ol>
 </details>
@@ -178,13 +175,13 @@ npm install --save express@4.16.4 body-parser@1.18.3 compression@1.7.3 cors@2.8.
 ![image](https://user-images.githubusercontent.com/3227100/113348757-66979480-930d-11eb-90be-bfc2a7e9600b.png)
 
 
-## API-Usuario
+## API-User
 Criando Views para recuperar senha:
  
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
-## Teste-Usuário
+## User test
 Testando os métodos de requisição:
  ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
  
@@ -201,3 +198,11 @@ Testando os métodos de requisição:
         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwYWNjNjNjOWM2OTRjNTNkNGE2NTkxYyIsImVtYWlsIjoibHVpc0BnbWFpbC5jb20iLCJub21lIjoiTHVpcyBFZHVhcmRvIFMuIFBpbmhlaXJvIiwiZXhwIjoxNjI1NTM3MDc4LjExLCJpYXQiOjE2MjQyNDEwNzh9.t-PT2WICEWhp-jbYXB6Krwnq0Z9XszO3r3Xe3s-2KO4"
     }
 }
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@your_Facebook](https://www.facebook.com/profile.php?id=100000984298993) - lepinheiro100@terra.com.br
+
+Project Link: [https://github.com/luispinheiro](https://github.com/luispinheiro)
+
