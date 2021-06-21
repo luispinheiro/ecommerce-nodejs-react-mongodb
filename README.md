@@ -140,3 +140,20 @@ Criando Views para recuperar senha:
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
+# API - Usuário
+Testando os métodos de requisição:
+ ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
+ 
+ Gerando o Token através do login:
+ {
+    "usuario": {
+        "_id": "60acc63c9c694c53d4a6591c",
+        "nome": "Luis Eduardo S. Pinheiro",
+        "email": "luis@gmail.com",
+        "loja": "498487658940987654322334",
+        "role": [
+            "cliente"
+        ],
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwYWNjNjNjOWM2OTRjNTNkNGE2NTkxYyIsImVtYWlsIjoibHVpc0BnbWFpbC5jb20iLCJub21lIjoiTHVpcyBFZHVhcmRvIFMuIFBpbmhlaXJvIiwiZXhwIjoxNjI1NTM3MDc4LjExLCJpYXQiOjE2MjQyNDEwNzh9.t-PT2WICEWhp-jbYXB6Krwnq0Z9XszO3r3Xe3s-2KO4"
+    }
+}
