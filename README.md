@@ -33,10 +33,9 @@ Tabela de conteúdos
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#planejamento">Planejamento</a></li>
-        <li><a href="#modelagem-e-relacionamentos-das-classes-de-dominio">Modelagem e relacionamentos das classes de domínio</a></li>
-      </ul>
+     <li><a href="#planejamento">Planejamento</a></li>
+      <li><a href="#modelagem-e-relacionamentos-das-classes-de-dominio">Modelagem e relacionamentos das classes de domínio</a></li>
+
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
