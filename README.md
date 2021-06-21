@@ -27,7 +27,7 @@ Tabela de conteúdos
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Instalação das ferramentas</a>
+      <a href="#instalacao-das-ferramentas">Instalação das ferramentas</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
