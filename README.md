@@ -45,10 +45,18 @@ Tabela de conteúdos
     <li>
       <a href="#instalacao-das-dependencias">Instalacao das dependencias</a>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li>
+      <a href="#api-Usuario">API-Usuario</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
+    <li>
+      <a href="#acknowledgements">Acknowledgements</a>
+    </li>
   </ol>
 </details>
 
@@ -184,13 +192,13 @@ npm install --save express@4.16.4 body-parser@1.18.3 compression@1.7.3 cors@2.8.
 ![image](https://user-images.githubusercontent.com/3227100/113348757-66979480-930d-11eb-90be-bfc2a7e9600b.png)
 
 
-## API - Usuário
+## API-Usuario
 Criando Views para recuperar senha:
  
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
-## Teste - Usuário
+## Teste-Usuário
 Testando os métodos de requisição:
  ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
  
