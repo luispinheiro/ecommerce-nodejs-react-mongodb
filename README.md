@@ -14,10 +14,14 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Modúlo 1-Introdução](#Introducao)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
+      * [Sobre o curso](#pre-requisitos)
+      * [Sobre min](#pre-requisitos)
+      * [Instalando aplicações necessárias - NodeJS](#local-files)
+      * [Instalando aplicacoes necessarias - MongoDB](#remote-files)
+      * [Instalando aplicacoes necessarias - VSCode](#remote-files)
+      * [Link para Repositório com código para a API](#multiple-files)
+      * [Link para Repositório com código para a API](#remote-files)
+      * [Link para Repositório com código para a Loja Virtuai](#multiple-files)
       * [Combo](#combo)
    * [Modúlo 2-Planejamento](#planejamento)
       * [Pre Requisitos](#pre-requisitos)
