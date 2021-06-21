@@ -52,6 +52,7 @@ Tabela de conteúdos
 
 
 ## About The Project
+Obviamente, nenhum modelo atenderá a todos os projetos, pois suas necessidades podem ser diferentes. Portanto, estarei adicionando mais em um futuro próximo. Você também pode sugerir alterações bifurcando este repositório e criando uma solicitação pull ou abrindo um problema. Obrigado a todas as pessoas que contribuíram para expandir este modelo!
 
 ## Getting Started
   Instalação do NodeJS 
