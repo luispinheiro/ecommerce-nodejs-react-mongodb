@@ -1,5 +1,7 @@
 # Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
 
+> Short blurb about what your product does.
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
