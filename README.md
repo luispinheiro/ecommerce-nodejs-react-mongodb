@@ -187,7 +187,10 @@ Criando Views para recuperar senha:
  ![image](https://user-images.githubusercontent.com/3227100/124370205-308ae900-dc4b-11eb-9acd-5c4646a76d3d.png)
 
  Gerando o Token através do login:
- ![image](https://user-images.githubusercontent.com/3227100/122706362-2c63d200-d22e-11eb-9409-45acf68882fb.png) 
+ ![image](https://user-images.githubusercontent.com/3227100/122706362-2c63d200-d22e-11eb-9409-45acf68882fb.png)
+ 
+
+ 
 
 <!-- CONTACT -->
 ## Contact
