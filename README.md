@@ -182,6 +182,8 @@ Criando Views para recuperar senha:
   
 
 ## Testando as rotas User
+Acessando o banco de dados mongodb:
+![image](https://user-images.githubusercontent.com/3227100/124370474-9f1d7600-dc4e-11eb-9136-6117091d3864.png)
 
  Criando o usuário para acessar o sistema:
  ![image](https://user-images.githubusercontent.com/3227100/124370205-308ae900-dc4b-11eb-9acd-5c4646a76d3d.png)
