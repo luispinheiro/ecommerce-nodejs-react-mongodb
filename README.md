@@ -189,6 +189,11 @@ Criando Views para recuperar senha:
 Testando os métodos de requisição:
  ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
  
+ Testando o usuário pelo id:
+ 
+ ![image](https://user-images.githubusercontent.com/3227100/124370047-0c2e0d00-dc49-11eb-925d-7583fe8961a8.png)
+
+ 
 
 <!-- CONTACT -->
 ## Contact
