@@ -191,6 +191,9 @@ Acessando o banco de dados mongodb:
  Gerando o Token através do login:
  ![image](https://user-images.githubusercontent.com/3227100/124370397-911b2580-dc4d-11eb-896a-104d6b914d22.png)
  
+ Testando erros no formulário de login:
+ ![image](https://user-images.githubusercontent.com/3227100/124370525-15ba7380-dc4f-11eb-9b4f-be393fa5f3c5.png)
+ 
  Acessando o bando de dados e listando o usuário criado:
  ![image](https://user-images.githubusercontent.com/3227100/124370451-55cd2680-dc4e-11eb-9eab-fa01644987ae.png)
  
