@@ -189,6 +189,9 @@ Criando Views para recuperar senha:
  Gerando o Token através do login:
  ![image](https://user-images.githubusercontent.com/3227100/124370397-911b2580-dc4d-11eb-896a-104d6b914d22.png)
  
+ Acessando o bando de dados e listando o usuário criado:
+ ![image](https://user-images.githubusercontent.com/3227100/124370440-3635fe00-dc4e-11eb-9857-15b4ec603090.png)
+ 
  
 <!-- CONTACT -->
 ## Contact
