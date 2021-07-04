@@ -181,19 +181,13 @@ Criando Views para recuperar senha:
 ![image](https://user-images.githubusercontent.com/3227100/113344834-fd615280-9307-11eb-9aac-61728b15345e.png)
   
 
-## User test
+## Testando as rotas User
+
+ Criando o usuário para acessar o sistema:
+ ![image](https://user-images.githubusercontent.com/3227100/124370205-308ae900-dc4b-11eb-9acd-5c4646a76d3d.png)
 
  Gerando o Token através do login:
- ![image](https://user-images.githubusercontent.com/3227100/122706362-2c63d200-d22e-11eb-9409-45acf68882fb.png)
- 
-Testando os métodos de requisição:
- ![image](https://user-images.githubusercontent.com/3227100/122697546-ed2c8580-d21b-11eb-88c6-2b1160caee2a.png)
- 
- Testando o usuário pelo id:
- 
- ![image](https://user-images.githubusercontent.com/3227100/124370047-0c2e0d00-dc49-11eb-925d-7583fe8961a8.png)
-
- 
+ ![image](https://user-images.githubusercontent.com/3227100/122706362-2c63d200-d22e-11eb-9409-45acf68882fb.png) 
 
 <!-- CONTACT -->
 ## Contact
