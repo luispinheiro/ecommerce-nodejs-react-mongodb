@@ -6,7 +6,8 @@ O termo e-commerce é a comercialização de produtos e serviços pela internet,
 
 Esse tipo de comércio pode contar com diversos canais de vendas. O mais conhecido é a loja virtual. Porém, também temos outros, como marketplaces, vendas nas redes sociais e até vendas por e-mail marketing.
 
-Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e até a imprensa ainda não sabem a definição correta e tratam o termo e-commerce como sinônimo de loja virtual. Isso já se provou ser um grande equívoco, tendo em vista que uma coisa não é a mesma que a outra.
+Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, 
+s e até a imprensa ainda não sabem a definição correta e tratam o termo e-commerce como sinônimo de loja virtual. Isso já se provou ser um grande equívoco, tendo em vista que uma coisa não é a mesma que a outra.
 
 É válido frisar que a expressão e-commerce se diferencia do termo “loja virtual”, uma vez que o segundo conceito se refere ao website em que os clientes adquirem os produtos, ou seja, é um dos canais do e-commerce. No entanto, existem outros, como citado anteriormente.
 
@@ -25,6 +26,9 @@ Embora seja uma ferramenta popular nos dias de hoje, muitas pessoas, blogs e at�
     </li>
      <li>
         <a href="#modelagem-das-classes-de-dominio">Modelagem das classes de dominio</a>        </li>
+    <li>
+     <li>
+        <a href="#modelagem-das-classes-de-dominio">Instalação do gerenciador de instancias NodeJS</a>        </li>
     <li>
       <a href="#instalalling-visual-studio-build-tools">Installing Visual Studio Build Tools</a>
     </li>
@@ -133,7 +137,16 @@ Ver as paginas institucionais da loja
     
 ## Modelagem das classes de dominio
 
-![image](https://user-images.githubusercontent.com/3227100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
+<div> align="center"
+img src="![image](https://user-images.githubusercontent.com/3" width="0px" </div>
+
+## Instalação do gerenciador de instancias NodeJS
+<div> align="center"
+img src="![image](![image](https://user-images.githubusercontent.com/3227100/186980085-2e14a4f4-fb5c-45a8-a78f-5c045197d522.png)" width="0px" </div
+
+27100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
+
+27100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
 
     
 ## Instalacao do Visual Studio Build Tools
