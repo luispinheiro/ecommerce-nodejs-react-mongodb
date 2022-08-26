@@ -140,7 +140,7 @@ Ver as paginas institucionais da loja
 Inserir imagem de modelagem
 
 ## Instalação do gerenciador de instancias NodeJS
-![image](![image](https://user-images.githubusercontent.com/3227100/186980085-2e14a4f4-fb5c-45a8-a78f-5c045197d522.png)
+![image](https://user-images.githubusercontent.com/3227100/186980085-2e14a4f4-fb5c-45a8-a78f-5c045197d522.png)
 
     
 ## Instalacao do Visual Studio Build Tools
