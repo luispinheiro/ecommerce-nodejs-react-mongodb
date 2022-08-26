@@ -142,7 +142,7 @@ img src="![image](https://user-images.githubusercontent.com/3" width="0px" </div
 
 ## Instalação do gerenciador de instancias NodeJS
 <div> align="center"
-img src="![image](![image](https://user-images.githubusercontent.com/3227100/186980085-2e14a4f4-fb5c-45a8-a78f-5c045197d522.png)" width="0px" </div
+img src="![image](![image](https://user-images.githubusercontent.com/3227100/186980085-2e14a4f4-fb5c-45a8-a78f-5c045197d522.png)" width="0px" </div>
 
 27100/113349807-fa1d9500-930e-11eb-8410-1d635ee3c7f9.png)
 
