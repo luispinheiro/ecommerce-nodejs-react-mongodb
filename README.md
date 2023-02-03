@@ -60,7 +60,7 @@ Instalação do Mongodb
 
  ![image](https://user-images.githubusercontent.com/3227100/113346746-a1e49400-930a-11eb-84c5-cee33ba3b795.png)
 
-asdfasdf
+
 
  ![image](https://user-images.githubusercontent.com/3227100/113346785-af018300-930a-11eb-90f2-c9758e2eb6aa.png)
 
