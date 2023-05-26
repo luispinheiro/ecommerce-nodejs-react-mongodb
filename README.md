@@ -1,13 +1,4 @@
 ## Sistema Ecommerce utilizando as tecnologias NodeJS, react e mongodb
-marp: true
-
----
-
-<!--
-Site de conversão de power point(slides) em imagens
-https://convertio.co/pt/
--->
-
 
 ![Alt text](images/9d8b350bdfa2465a5b1138626b1e708a-0.jpg)
 
